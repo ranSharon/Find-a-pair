@@ -1,0 +1,26 @@
+{
+  "name": "find-a-pair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranSharon/Find-a-pair.git"
+  },
+  "author": "Ran Sharon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranSharon/Find-a-pair/issues"
+  },
+  "homepage": "https://github.com/ranSharon/Find-a-pair#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
