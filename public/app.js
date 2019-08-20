@@ -13,7 +13,7 @@ const images = [
     'assets/jquery.jpg',
     'assets/mysql.png',
     'assets/npm.png',
-    'assets/slack.png',
+    'assets/Slack.png',
     'assets/vscode.png',
     'assets/php.png',
     'assets/typescript.png',
